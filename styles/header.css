@@ -27,4 +27,8 @@
     .cabecalho-titulo {
         display: flex;
     }
+
+    .cabecalho-imagem-transparente{
+        display: none;
+    }
 }
