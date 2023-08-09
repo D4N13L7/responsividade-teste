@@ -23,7 +23,7 @@
     display: none;
 }
 
-.cabecalho-imagem {
+.container-imagem {
     padding: 1em;
 }
 
@@ -34,7 +34,7 @@
         display: flex;
     }
 
-    .cabecalho-imagem-transparente{
+    .cabecalho-imagem-transparente {
         display: none;
     }
 }
