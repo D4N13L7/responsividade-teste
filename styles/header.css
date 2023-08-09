@@ -14,16 +14,16 @@
     align-items: center;
 }
 
-.container{
+.container {
     display: flex;
     align-items: center;
 }
 
-.cabecalho-titulo{
+.cabecalho-titulo {
     display: none;
 }
 
-.cabecalho-imagem{
+.cabecalho-imagem {
     padding: 1em;
 }
 
