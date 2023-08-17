@@ -31,7 +31,7 @@
     display: none;
 }
 
-.container__botao:checked ~ .lista-menu {
+.container-botao:checked~.lista-menu {
     display: block;
 }
 
