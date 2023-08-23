@@ -1,3 +1,4 @@
+/* fazer próxima aula */
 .cabecalho-menu-hamburguer {
     width: 24px;
     height: 24px;
@@ -24,9 +25,11 @@
     display: none;
 }
 
+/* fazer próxima aula até linha 43 */
 .container-imagem {
     padding: 1em;
 }
+
 
 .lista-menu{
     display: none;
@@ -38,6 +41,10 @@
     display: block;
 }
 
+.lista-menu-titulo, lista-menu-item{
+    padding: 1em;
+    background-color: var(--branco);
+}
 
 @media screen and (min-width: 1024px) {
     .cabecalho-titulo {
