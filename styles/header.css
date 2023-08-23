@@ -46,6 +46,14 @@
     background-color: var(--branco);
 }
 
+.lista-menu-titulo {
+    color: var(--laranja);
+}
+
+.lista-menu-link {
+    color: var(--azul-degrade);
+}
+
 @media screen and (min-width: 1024px) {
     .cabecalho-titulo {
         display: flex;
