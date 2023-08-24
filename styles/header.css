@@ -49,6 +49,11 @@
 
 .lista-menu-titulo {
     color: var(--laranja);
+    font-weight: 700;
+}
+
+.container-botao{
+    display: none;
 }
 
 .lista-menu-link {
