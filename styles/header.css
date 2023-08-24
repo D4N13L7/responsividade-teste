@@ -35,6 +35,7 @@
     display: none;
     position: absolute;
     top: 100%;
+    width: 60vw;
 }
 
 .container-botao:checked~.lista-menu {
@@ -51,7 +52,11 @@
 }
 
 .lista-menu-link {
-    color: var(--azul-degrade);
+    background: var(--azul-degrade);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-transform: uppercase;
 }
 
 @media screen and (min-width: 1024px) {
