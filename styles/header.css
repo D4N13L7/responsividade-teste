@@ -39,13 +39,12 @@
 .container-botao:checked~.lista-menu {
     display: block;
 }
-/* fazer próxima aula */
 
 .lista-menu-titulo, .lista-menu-item {
     padding: 1em;
     background-color: var(--branco);
 }
-
+/* próxima aula */
 .lista-menu-titulo {
     color: var(--laranja);
     font-weight: 700;
